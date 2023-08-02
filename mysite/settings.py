@@ -26,7 +26,7 @@ SECRET_KEY = 'rx(r)rlknyynw+s3h7d)-2$=@dyj46f$=pqk85z7+&m^@@80n#'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['forest-fire-prediction-django-app.onrender.com/', '127.0.0.1']
+ALLOWED_HOSTS = ['forest-fire-prediction-django-app.onrender.com', '127.0.0.1']
 
 
 # Application definition
